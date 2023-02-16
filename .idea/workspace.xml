@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f050711-7908-4f5f-8c83-8417d25ef946" name="Changes" comment="">
+    <list default="true" id="1f050711-7908-4f5f-8c83-8417d25ef946" name="Changes" comment="Added hashmap">
       <change afterPath="$PROJECT_DIR$/src/MergeSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentHash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threadSleep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threadss.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudentHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudentHash.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +46,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.BinarySearch">
     <configuration name="BinarySearch" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="BinarySearch" />
       <module name="Arrays_Strings_HashMap" />
@@ -51,6 +54,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="threadss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threadss" />
+      <module name="Arrays_Strings_HashMap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.threadss" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -61,6 +76,18 @@
       <option name="presentableId" value="Default" />
       <updated>1675932275383</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added hashmap">
+      <created>1676286888273</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676286888273</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added hashmap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added hashmap" />
   </component>
 </project>
